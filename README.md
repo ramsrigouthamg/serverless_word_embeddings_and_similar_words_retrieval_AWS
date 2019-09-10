@@ -1,6 +1,6 @@
 # NLP - Serverless deployment of word embeddings and retrieving most similar words using Kmeans, AWS Aurora Serverless and Lambda
  
-Refer to this [Medium Post](https://medium.com/@ramsrigouthamg/nlp-serverless-deployment-of-word-embeddings-and-retrieving-most-similar-words-using-kmeans-aws-51f129297995?sk=5a0909fa1dc212653812de152c14d83a) for detailed explanation of this repository.
+Refer to this [Medium Post](https://medium.com/@ramsrigouthamg/nlp-serverless-deployment-of-word-embeddings-and-retrieving-most-similar-words-using-kmeans-aws-51f129297995?sk=5a0909fa1dc212653812de152c14d83a) for a detailed explanation of this repository.
 
 This repository contains all the code to place a word embeddings file (.vec) onto a database for running most_similar function in a serverless manner to retrieve the most similar words for a given query word.
  
